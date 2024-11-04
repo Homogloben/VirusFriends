@@ -1,3 +1,4 @@
+bu8g b77bfgh  ev923rT r8f 83rbg8iwnf hghei bi ]
 python>=3.5 
 Megahit>=1.1.2
 blast+>=2.7 
